@@ -1,0 +1,61 @@
+body{
+    background-color: beige ;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: #1cf15f;
+}
+
+button{
+    color: white;
+    background-color: rgb(80, 150, 155);
+    font-size: 20px;
+}
+
+p{
+    color:  rgb(0, 0, 0);
+    background-color: rgb(253, 253, 253);
+}
+
+h2,h3{
+    font-size: 30px;
+
+}
+
+#signup{
+    background-color: black;
+    color: white;
+}
+
+span{
+    color: blue;
+}
+
+
+.tag{
+    background-color: red;
+    font-size: 20px    ;
+}
+
+input[type="text"]{
+    color: blue;
+}
+
+
+.post button:hover{
+    color: black;
+    background-color: rgb(138, 127, 127);
+}
+
+.post button:active{
+    color: teal;
+    background-color: orange;
+}
+
+.post:nth-of-type(2n){
+    background-color: #c7d3f3;
+}
