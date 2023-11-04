@@ -1,0 +1,31 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: #fed9b7;
+}
+
+h1{
+    background-color: #fed9b7 ;
+    width: 100px;
+}
+
+#one{
+    background-color: #ff758f;
+    border-width: 5px;
+    border-color: rgb(178, 180, 30);
+    border-style: solid;
+    
+    
+}
+#two{
+    background-color: #ff8fa3;
+    border-width: 5px;
+    border-color: rgb(76, 76, 176);
+    border-style: dashed;
+}
+#three{
+    background-color: #ffb3c1;
+    border: 5px solid black;
+    border-left-style: dashed ;
+    border-radius: 7%;
+}
